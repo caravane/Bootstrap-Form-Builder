@@ -1,6 +1,10 @@
 {
   "name": "bootstrap-form-builder",
   "main":"assets/js/main-built.js",
+  "author": {
+    "name": "Adam Moore",
+    "url": "https://github.com/minikomi"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/caravane/bootstrap-form-builder.git"
