@@ -1,5 +1,6 @@
 {
   "name": "bootstrap-form-builder",
+  "main":"assets/main-built.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/caravane/bootstrap-form-builder.git"
